@@ -1,0 +1,1 @@
+pod 'React', :path => './react-native', :subspecs => ['Core','RCTImage','RCTNetwork','RCTText','RCTWebSocket']
